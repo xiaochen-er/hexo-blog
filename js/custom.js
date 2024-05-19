@@ -1,0 +1,1 @@
+function removelrc(){return document.querySelector(".aplayer-icon-lrc")?(document.removeEventListener("DOMNodeInserted",removelrc),setTimeout((function(){document.querySelector(".aplayer-icon-lrc").click()}),1),void console.log("success")):void 0}document.addEventListener("DOMNodeInserted",removelrc);
