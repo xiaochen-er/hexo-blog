@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.xiao2024.cn/manifest.json</loc>
+    <loc>https://blog.xiao2024.cn/posts/4a17b156/</loc>
     
-    <lastmod>2024-05-18</lastmod>
+    <lastmod>2024-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.xiao2024.cn/posts/4a17b156/</loc>
+    <loc>https://blog.xiao2024.cn/categories/index.html</loc>
+    
+    <lastmod>2024-05-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xiao2024.cn/tags/index.html</loc>
+    
+    <lastmod>2024-05-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xiao2024.cn/manifest.json</loc>
     
     <lastmod>2024-05-18</lastmod>
     
@@ -28,6 +46,20 @@
   </url>
 
   
+  <url>
+    <loc>https://blog.xiao2024.cn/tags/Hello-World/</loc>
+    <lastmod>2024-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://blog.xiao2024.cn/categories/Hello-World/</loc>
+    <lastmod>2024-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
