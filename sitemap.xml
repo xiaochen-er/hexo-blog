@@ -2,36 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.xiao2024.cn/posts/4a17b156/</loc>
+    <loc>https://blog.xiao2024.cn/manifest.json</loc>
     
-    <lastmod>2024-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xiao2024.cn/music/index.html</loc>
-    
-    <lastmod>2024-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xiao2024.cn/Gallery/wallpaper.html</loc>
-    
-    <lastmod>2024-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.xiao2024.cn/Gallery/index.html</loc>
-    
-    <lastmod>2024-05-20</lastmod>
+    <lastmod>2024-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,16 +13,16 @@
   <url>
     <loc>https://blog.xiao2024.cn/link/index.html</loc>
     
-    <lastmod>2024-05-20</lastmod>
+    <lastmod>2024-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.xiao2024.cn/categories/index.html</loc>
+    <loc>https://blog.xiao2024.cn/music/index.html</loc>
     
-    <lastmod>2024-05-19</lastmod>
+    <lastmod>2024-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,16 +31,43 @@
   <url>
     <loc>https://blog.xiao2024.cn/tags/index.html</loc>
     
-    <lastmod>2024-05-19</lastmod>
+    <lastmod>2024-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.xiao2024.cn/manifest.json</loc>
+    <loc>https://blog.xiao2024.cn/posts/4a17b156/</loc>
     
-    <lastmod>2024-05-18</lastmod>
+    <lastmod>2024-05-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xiao2024.cn/Gallery/index.html</loc>
+    
+    <lastmod>2024-05-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xiao2024.cn/Gallery/wallpaper.html</loc>
+    
+    <lastmod>2024-05-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xiao2024.cn/categories/index.html</loc>
+    
+    <lastmod>2024-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
