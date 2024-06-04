@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>做个懒人</title>
   
-  <subtitle>xiaochen_erのBlog</subtitle>
+  <subtitle>懒人の小窝</subtitle>
   <link href="https://blog.xiao2024.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.xiao2024.cn/"/>
-  <updated>2024-06-03T17:54:12.522Z</updated>
+  <updated>2024-06-04T17:34:52.700Z</updated>
   <id>https://blog.xiao2024.cn/</id>
   
   <author>
@@ -17,26 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://blog.xiao2024.cn/posts/4a17b156/"/>
-    <id>https://blog.xiao2024.cn/posts/4a17b156/</id>
-    <published>2024-06-03T17:54:12.522Z</published>
-    <updated>2024-06-03T17:54:12.522Z</updated>
+    <title>Hexo博客安装</title>
+    <link href="https://blog.xiao2024.cn/posts/11a4/"/>
+    <id>https://blog.xiao2024.cn/posts/11a4/</id>
+    <published>2024-06-04T02:23:16.000Z</published>
+    <updated>2024-06-04T17:34:52.700Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="快速上手"><a href="#快速上手" class="headerlink" title="快速上手"></a>快速上手</h2><h3 id="新建博文"><a href="#新建博文" class="headerlink" title="新建博文"></a>新建博文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>相关信息：<a href="https://hexo.io/docs/writing.html">writing</a></p><h3 id="运行博客"><a href="#运行博客" class="headerlink" title="运行博客"></a>运行博客</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>相关信息: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成文件"><a href="#生成文件" class="headerlink" title="生成文件"></a>生成文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>相关信息: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="提交文件"><a href="#提交文件" class="headerlink" title="提交文件"></a>提交文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>相关信息: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.18/tianli_gpt.css"></p><script>let tianliGPT_postSelector = '#post #article-container';let tianliGPT_key = 'IeAj85qh38b';</script><script src="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.18/tianli_gpt.min.js"></script><div class="tip info"><p>本篇为博客的安装记录 📝</p></div><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本博客使用 Github Pages + Hexo 进行搭建。</p><h1 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h1><p>首先，你得有一个Github账号</p><h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><h2 id="安装node-js"><a href="#安装node-js" class="headerlink" title="安装node.js"></a>安装node.js</h2><details class="folding-tag" green><summary> 点击查看 </summary>              <div class='content'>              <p>进入 node.js 官网：<a href="https://nodejs.org/en/download/package-manager">Node.js 官网</a><br>按照自己的机器选择对应的版本下载</p>              </div>            </details><h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h2><details class="folding-tag" green><summary> 点击查看 </summary>              <div class='content'>              <p>进入 Git 官网：<a href="https://git-scm.com/downloads">Git 官网</a><br>Git 安装参考：<a href="https://www.cnblogs.com/jytx/p/5602927.html">Git 安装教程</a></p>              </div>            </details><h2 id="检查是否安装成功"><a href="#检查是否安装成功" class="headerlink" title="检查是否安装成功"></a>检查是否安装成功</h2><details class="folding-tag" green><summary> 点击查看 </summary>              <div class='content'>              <p>同时按下 Win + R 键打开运行窗口,输入 <code>cmd</code> ，然后输入以下命令，查看是否安装成功。<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git --version</span><br><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure></p>              </div>            </details><h1 id="Hexo安装"><a href="#Hexo安装" class="headerlink" title="Hexo安装"></a>Hexo安装</h1><h2 id="创建文件"><a href="#创建文件" class="headerlink" title="创建文件"></a>创建文件</h2><details class="folding-tag" green><summary> 点击查看 </summary>              <div class='content'>              <p>选择位置新建文件夹（如D:\Hexo-Blog），进入该文件夹，右键在终端中打开，输入以下命令<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure></p>              </div>            </details><h2 id="初始化Hexo"><a href="#初始化Hexo" class="headerlink" title="初始化Hexo"></a>初始化Hexo</h2><details class="folding-tag" green><summary> 点击 查看 </summary>              <div class='content'>              <p>输入第一条指令初始化Hexo，第二个命令安装 deployer 将 Hexo 部署到 Github Pages<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><br>Hexo 安装完成后，将会在指定文件夹中创建好所需要的文件</p>              </div>            </details><h1 id="本地部署"><a href="#本地部署" class="headerlink" title="本地部署"></a>本地部署</h1><details class="folding-tag" green><summary> 点击查看 </summary>              <div class='content'>              <p>输入指令<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure><br>在浏览器中输入 <a href="http://localhost:4000/">http://localhost:4000/</a> 查看效果</p>              </div>            </details><h1 id="部署到-Github"><a href="#部署到-Github" class="headerlink" title="部署到 Github"></a>部署到 Github</h1><details class="folding-tag" green><summary> 点击查看 </summary>              <div class='content'>              <p>到目前为止本地博客就成功搭建了，但是只能通过本地连接查看，要让其他人也能够访问我们的博客，就需要将博客部署到 Github Pages 上</p><div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-yellow"  style="width: 30%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"><p>未完待续</p></div></div>              </div>            </details>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;快速上手&quot;&gt;&lt;a href=&quot;#快速上手&quot; class=&quot;headerlink&quot; title=&quot;快速上手&quot;&gt;&lt;/a&gt;快速上手&lt;/h2&gt;&lt;h3 id=&quot;新建博文&quot;&gt;&lt;a href=&quot;#新建博文&quot; class=&quot;headerlink&quot; title=&quot;新建博文&quot;&gt;&lt;/a</summary>
+    <summary type="html">&lt;p&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.18/tianli_gpt.css&quot;&gt;&lt;/p&gt;
+&lt;script&gt;
+let tianliGPT_postSele</summary>
       
     
     
     
-    <category term="Hello World" scheme="https://blog.xiao2024.cn/categories/Hello-World/"/>
+    <category term="Hexo" scheme="https://blog.xiao2024.cn/categories/Hexo/"/>
     
     
-    <category term="Hello World" scheme="https://blog.xiao2024.cn/tags/Hello-World/"/>
+    <category term="Hexo" scheme="https://blog.xiao2024.cn/tags/Hexo/"/>
+    
+    <category term="博客安装" scheme="https://blog.xiao2024.cn/tags/%E5%8D%9A%E5%AE%A2%E5%AE%89%E8%A3%85/"/>
     
   </entry>
   
