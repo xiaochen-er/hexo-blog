@@ -38,6 +38,15 @@
   </url>
   
   <url>
+    <loc>https://blog.xiao2024.cn/posts/4a17b156/</loc>
+    
+    <lastmod>2024-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.xiao2024.cn/Gallery/index.html</loc>
     
     <lastmod>2024-07-14</lastmod>
@@ -82,6 +91,20 @@
   </url>
 
   
+  <url>
+    <loc>https://blog.xiao2024.cn/tags/Hello-World/</loc>
+    <lastmod>2024-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://blog.xiao2024.cn/categories/Hello-World/</loc>
+    <lastmod>2024-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
